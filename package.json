@@ -1,0 +1,26 @@
+{
+  "name": "d3-aligned-left",
+  "version": "0.0.0",
+  "description": "Playing with d3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevmo/d3-aligned-left.git"
+  },
+  "keywords": [
+    "d3"
+  ],
+  "author": "kevmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevmo/d3-aligned-left/issues"
+  },
+  "homepage": "https://github.com/kevmo/d3-aligned-left",
+  "dependencies": {
+    "express": "^3.5.1"
+  }
+}

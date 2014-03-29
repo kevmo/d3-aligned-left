@@ -1,0 +1,20 @@
+{
+  "name": "d3-aligned-left",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kevmo/d3-aligned-left",
+  "authors": [
+    "Kevin Moore <kevin@spendship.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "d3": "~3.4.4"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
